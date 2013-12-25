@@ -1,0 +1,105 @@
+华硕K40IN 静态 chuan600
+Begin computing. 0.000000
+starttime = 1482.000000
+before
+CUDA initialized.
+CUDA is OK=1
+GPUnum = 1
+NendoB=2656 NendoC=2959
+before BSPitmm-begin=4.648000,
+Num of CPU: 2
+mTime:798 iTimebegin:1  iTimeend:266
+dipolep = 169433 sumdiploep = 338866
+iTimeend:266
+*(itask[1]+0):266
+
+endtime = 220514.000000
+Simulation End !
+
+华硕K40IN 静态 chuan50
+Begin computing. 0.000000
+starttime = 795.000000
+before
+CUDA initialized.
+CUDA is OK=1
+GPUnum = 1
+NendoB=2656 NendoC=2959
+before BSPitmm-begin=4.680000,
+Num of CPU: 2
+mTime:48 iTimebegin:1  iTimeend:16
+dipolep = 1654 sumdiploep = 3309
+iTimeend:16
+*(itask[1]+0):16
+
+endtime = 14367.000000
+Simulation End !
+
+华硕K40IN 静态 chuan100
+Begin computing. 0.000000
+starttime = 982.000000
+before
+CUDA initialized.
+CUDA is OK=1
+GPUnum = 1
+NendoB=2656 NendoC=2959
+before BSPitmm-begin=4.712000,
+Num of CPU: 2
+mTime:99 iTimebegin:1  iTimeend:33
+dipolep = 9422 sumdiploep = 18845
+iTimeend:33
+*(itask[1]+0):33
+
+endtime = 25381.000000
+Simulation End !
+
+华硕K40IN 静态 chuan4000
+Begin computing. 0.000000
+starttime = 13026.000000
+before
+CUDA initialized.
+CUDA is OK=1
+GPUnum = 1
+NendoB=2656 NendoC=2957
+before BSPitmm-begin=4.617000,
+Num of CPU: 2
+mTime:3999 iTimebegin:1  iTimeend:1333
+dipolep = 2009575 sumdiploep = 4019150
+iTimeend:1333
+*(itask[1]+0):1333
+
+endtime = 3795963.000000
+Simulation End !
+
+华硕K40IN 动静结合 chuan600
+D:\HeartBeat\Debug>HeartBeat.exe
+Begin computing. 0.000000
+starttime = 1326.000000
+before
+CUDA initialized.
+CUDA is OK=1
+GPUnum = 1BSPmitttime=193.034000,communicate=0.000000,writefile=25.616000
+
+endtime = 229070.000000
+Simulation End !
+
+华硕K40IN 动静结合 chuan100
+Begin computing. 0.000000
+starttime = 795.000000
+before
+CUDA initialized.
+CUDA is OK=1
+GPUnum = 1BSPmitttime=13.104000,communicate=0.000000,writefile=2.840000
+
+endtime = 25833.000000
+Simulation End !
+
+华硕K40IN 动静结合 chuan50
+Begin computing. 0.000000
+starttime = 780.000000
+before
+CUDA initialized.
+CUDA is OK=1
+GPUnum = 1BSPmitttime=3.276000,communicate=0.000000,writefile=1.357000
+
+endtime = 14554.000000
+Simulation End !

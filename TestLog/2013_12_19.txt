@@ -1,0 +1,17 @@
+华硕K40IN 动态 chuan600
+Begin computing. 0.000000
+starttime = 1990.000000
+before
+CUDA initialized.
+CUDA is OK=1
+GPUnum = 1
+NendoB=2656 NendoC=2959
+before BSPitmm-begin=6.274000,
+Num of CPU: 2
+mTime:798 iTimebegin:1  iTimeend:266
+dipolep = 169433 sumdiploep = 338866
+iTimeend:266
+*(itask[1]+0):266
+
+endtime = 254018.000000
+Simulation End !
